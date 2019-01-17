@@ -1,6 +1,6 @@
 {
   "name": "medium-to-markdown-enhanced",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "import a medium URL and convert it to markdown",
   "main": "index.js",
   "scripts": {
