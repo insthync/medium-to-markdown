@@ -1,13 +1,13 @@
 {
-  "name": "medium-to-markdown",
-  "version": "0.0.2",
+  "name": "medium-to-markdown-enhanced",
+  "version": "0.0.3",
   "description": "import a medium URL and convert it to markdown",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "SkillFlow, Inc.",
+  "author": "SkillFlow, Inc., Ittipon Teerapruettikulchai",
   "license": "MIT",
   "keywords": [
     "medium",
@@ -19,14 +19,14 @@
     "bluebird": "^3.5.0",
     "cheerio": "^0.22.0",
     "request": "^2.81.0",
-    "to-markdown": "^3.0.4"
+    "turndown": "^5.0.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SkillFlowHQ/medium-to-markdown.git"
+    "url": "git+https://github.com/insthync/medium-to-markdown-enhanced.git"
   },
   "bugs": {
-    "url": "https://github.com/SkillFlowHQ/medium-to-markdown/issues"
+    "url": "https://github.com/insthync/medium-to-markdown-enhanced/issues"
   },
-  "homepage": "https://github.com/SkillFlowHQ/medium-to-markdown#readme"
+  "homepage": "https://github.com/insthync/medium-to-markdown-enhanced#readme"
 }
